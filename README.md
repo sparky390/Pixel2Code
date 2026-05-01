@@ -60,7 +60,7 @@ Contributions are always welcome!
 
 <p align="center">
   <a href="https://github.com/sparky390">GitHub</a> •
-  <a href="https://instagram.com/sparky.390">Instagram</a>
+  <a href="https://instagram.com/sparky.fpv">Instagram</a>
 </p>
 
 ---
