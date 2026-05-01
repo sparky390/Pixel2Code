@@ -41,7 +41,7 @@ const unsigned char frames[][1024] = {
   {0x00, 0xFF, 0xA5, ...},
   {0x00, 0xAA, 0x55, ...},
 };
-
+```
 ---
 
 ## 🌟 Support & Contribution
