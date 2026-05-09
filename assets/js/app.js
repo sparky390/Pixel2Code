@@ -477,7 +477,7 @@ function convertGifToCode() {
     const frameArrays = processFrameArrays(gifFrames, width, height, drawMode, threshold, invertColors);
 
     let code = '';
-    code += '// SPARKY.FPV — GIF to C/C++ Array Output\n';
+    code += '// Pixel2Code — GIF to C/C++ Array Output\n';
     code += '// ============================================\n';
     code += '// github.com/sparky390 | instagram.com/sparky.fpv\n';
     code += `// Frame count : ${gifFrames.length}\n`;
@@ -562,7 +562,7 @@ function saveAsHeader() {
     h += `#define ${variableName.toUpperCase()}_H\n\n`;
     h += `#include <stdint.h>\n`;
     h += `#include <pgmspace.h>\n\n`;
-    h += `// SPARKY.FPV — GIF to C/C++ Header Output\n`;
+    h += `// Pixel2Code — GIF to C/C++ Header Output\n`;
     h += `// ============================================\n`;
     h += `// Generated : ${new Date().toISOString().split('T')[0]}\n`;
     h += `// Frames    : ${gifFrames.length}\n`;
